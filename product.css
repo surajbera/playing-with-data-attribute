@@ -1,0 +1,11 @@
+.product[data-stock='in-stock'] {
+  background-color: #92ca9f;
+}
+
+.product[data-stock='out-of-stock'] {
+  background-color: #9c797c;
+}
+
+.product[data-stock='limited-stock'] {
+  background-color: #cabd96;
+}
